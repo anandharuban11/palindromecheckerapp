@@ -1,7 +1,4 @@
-package PACKAGE_NAME;
-
-public class Palindromecheckerapp {
-
+public class UseCase4PalindromeCheckerApp {
     public static void main(String[] args) {
         String input = "madam";
         char[] chars = input.toCharArray();
