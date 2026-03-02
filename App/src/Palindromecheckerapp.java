@@ -22,6 +22,7 @@ public class Palindromecheckerapp {
         System.out.print("Enter a string: ");
         String input = sc.nextLine();
         System.out.println("\"" + input + "\" is " + (isPalindrome(input) ? "" : "not ") + "a palindrome.");
+        System.out.println("---------------");
         sc.close();
     }
 }
